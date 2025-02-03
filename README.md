@@ -66,7 +66,7 @@ entendimento.
 
 ## Vídeo Apresentação
 
-Confira o vídeo demonstrativo do projeto: [https://1drv.ms/v/c/dba0eb0014a6f83f/Eb-xRY-46L5IhgOIYcpvoWEBvs_8zzI6Y903nl8ihJzE3w](#)
+Confira o vídeo demonstrativo do projeto: [][(https://1drv.ms/v/c/dba0eb0014a6f83f/Eb-xRY-46L5IhgOIYcpvoWEBvs_8zzI6Y903nl8ihJzE3w)]
 
 ---
 
@@ -88,4 +88,6 @@ Confira o vídeo demonstrativo do projeto: [https://1drv.ms/v/c/dba0eb0014a6f83f
   - [x] Criação do repositório GitHub e documentação inicial.
 
 ---
+
+
 
